@@ -1,6 +1,11 @@
 # week 8
 
-- test
-- test2
+## What i hope to get done this week
 
-- test3
+- Basic Application runnning
+
+## What i actualy got done
+
+-
+
+## Reflection
