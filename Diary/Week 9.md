@@ -1,4 +1,4 @@
-# week 9
+# Week 9
 
 ## What i hope to get done this week
 
