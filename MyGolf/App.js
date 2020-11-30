@@ -8,7 +8,7 @@ export default function App() {
       <Text>Hello World React Native!</Text>
       <StatusBar style="auto" />
     </View>
-  );
+ );
 }
 
 const styles = StyleSheet.create({
